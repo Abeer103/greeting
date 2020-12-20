@@ -1,0 +1,2 @@
+ this command shows all the commits as a graph 
+ each commit in a line 
